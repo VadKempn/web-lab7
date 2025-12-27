@@ -1,0 +1,19 @@
+{
+  "name": "anime-reviews-vue",
+  "version": "1.0.0",
+  "description": "Anime Reviews Platform built with Vue 3",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
+}
